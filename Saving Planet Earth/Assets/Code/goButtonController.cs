@@ -12,7 +12,7 @@ public class goButtonController : MonoBehaviour {
 	void OnMouseDown()
 	{
 		//51. Load level 1
-		Application.LoadLevel (9);
+		Application.LoadLevel (10);
 	}
 	
 	// Update is called once per frame
